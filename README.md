@@ -6,7 +6,7 @@ The repository contains two projects:
 
 Following are the points:
 - Unnecessary variables and code have been removed.
-- The variable has been aloocated with the proper names.
+- The variable has been allocated with the proper names.
   * Button names on the form design.
   * File description and labels has been corrected according to the language (e.g. English or Deutsch)
   * Camel case and pascal case has been used to allocate function names.
