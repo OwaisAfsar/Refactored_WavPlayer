@@ -1,6 +1,6 @@
 # Refactored Wav Player
 
-The repository caontains two projects:
+The repository contains two projects:
 - Refactored code Project
 - Unit Test Project
 
